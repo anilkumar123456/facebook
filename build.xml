@@ -6,7 +6,7 @@
             <javac srcdir="src" destdir="target"/>
               </target>
          <target name="package" depends="clean,mkdir,compilation">
-       <jar basedir="target" destfile="facebook.jar"/>   
+       <jar basedir="target" destfile="facebook.war"/>   
           </target>
 <target name="clean">
 <delete dir="target"/>
