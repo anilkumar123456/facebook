@@ -5,6 +5,3 @@ public class singout {
     }
 }
 
-dwnjkdk
-dsjdjls
-dwjkd'
