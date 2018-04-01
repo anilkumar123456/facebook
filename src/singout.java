@@ -6,6 +6,7 @@ public class singout {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 dwnjkdk
 dsjdjls
 dwjkd'
@@ -17,3 +18,8 @@ dsjdjls
 dwjkd'
 >>>>>>> 4d8ad45... idahidhdiaj
 >>>>>>> e5dd2d6... hishfihah
+=======
+dwnjkdk
+dsjdjls
+dwjkd'
+>>>>>>> a99cabb0363769954724e72829323c3fcdb671a0
